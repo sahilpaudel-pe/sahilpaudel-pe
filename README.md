@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=sahilpaudel-pe&color=008080&style=plastic)
 
-- 👋 Hi, I’m @sahilpaudel-pe
+- 👋 Hi, I’m Sahil Paudel
 - 👀 I’m interested in coding and building
 - 🌱 I’m currently learning golang, react and ukelele
 - 💞️ I’m looking to collaborate on almost anything that is challenging
